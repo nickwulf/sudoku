@@ -7,6 +7,7 @@ Solves standard 9x9 Sudoku puzzles.
 How To Use
 -----------
 Follow the programs prompts. Your main options are:
+
 * A - Input a completly new unsolved puzzle
 * B - Edit a single square of the puzzle
 * C - Display the current puzzle
